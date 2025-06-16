@@ -19,7 +19,7 @@
 🤝 **Seeking Opportunities:** I'm eager to discuss and collaborate, especially for industry internships in Large Multimodal Models!
 
 
-## 🎓 Table of Contents
+## Table of Contents
 - [Surveys](#Surveys)
 - [Blog](#Blog)
 - [Papers](#Papers)
