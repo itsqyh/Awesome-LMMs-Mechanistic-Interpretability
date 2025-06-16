@@ -59,7 +59,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
 
-+ **SAE Learn Monosemantic Features in VLMs** [Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](https://arxiv.org/abs/2504.02821) (Jun. 6, 2025)
++ **SAE Learning Monosemantic Features in VLMs** [Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](https://arxiv.org/abs/2504.02821) (Jun. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02821)
   [![Star](https://img.shields.io/github/stars/ExplainableML/sae-for-vlm.svg?style=social&label=Star)](https://github.com/ExplainableML/sae-for-vlm)
 
@@ -81,7 +81,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **SAE-V** [SAE-V: Interpreting Multimodal Models for Enhanced Alignment](https://arxiv.org/abs/2502.17514) (Feb. 22, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17514)
 
-+ **SAE for Scientifically Rigorous Interpretation** [Sparse Autoencoders for Scientifically Rigorous Interpretation of Vision Models](https://arxiv.org/abs/2502.06755) (Feb. 10, 2025)
++ **SAE 4 Scientifically Rigorous Interpretation** [Sparse Autoencoders for Scientifically Rigorous Interpretation of Vision Models](https://arxiv.org/abs/2502.06755) (Feb. 10, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06755)
   [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/saev.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/saev)
 
@@ -111,7 +111,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Probing VIT** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
 
-+ **Probing VLMs for Visio-Linguistic Compositionality** [Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality](https://arxiv.org/abs/2204.03162) (Apr. 22, 2022)
++ **Probing VLMs 4 Visio-Linguistic Compositionality** [Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality](https://arxiv.org/abs/2204.03162) (Apr. 22, 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03162)
   [![Star](https://img.shields.io/github/stars/phiyodr/plxmert.svg?style=social&label=Star)](https://huggingface.co/datasets/facebook/winoground)
 
