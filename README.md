@@ -32,6 +32,8 @@
   - [Attention](#Attention)
   - [Tool](#Tool)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📚 Surveys:
 ([Back to Table of Contents](#table-of-contents))
 + [A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models](https://arxiv.org/abs/2502.17516) (Feb. 22, 2025)
@@ -45,7 +47,9 @@
 
 + [Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2412.02104) (Dec. 3, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02104)
-  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 📚 Blog:
 ([Back to Table of Contents](#table-of-contents))
 + [Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/) (Apr. 28, 2025)
@@ -64,6 +68,7 @@
 
 + [Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2) (Apr. 30, 2024)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## 📚 Papers:
 
