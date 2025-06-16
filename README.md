@@ -190,4 +190,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **ViT Prisma** [ViT Prisma: A Mechanistic Interpretability Library for Vision Transformers](https://github.com/soniajoseph/vit-prisma) (2023)
   [![Star](https://img.shields.io/github/stars/soniajoseph/vit-prisma.svg?style=social&label=Star)](https://github.com/soniajoseph/vit-prisma)
 
++ **Causal Tracing Tool 4 BLIP** [Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP](https://arxiv.org/abs/2308.14179) (Aug. 27, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
+  [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
+
 
