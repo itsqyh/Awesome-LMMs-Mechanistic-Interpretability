@@ -9,9 +9,6 @@
 
 </div>
 
-<div align="center">
-## A curated collection of resources focused on the Mechanistic Interpretability (MI) of Large Multimodal Models (LMMs).
-</div>
 
 📬 **Have a new paper or collaboration idea?** Reach out to me at: **qyhhere@gmail.com**.  
 🤝 **Seeking Opportunities:** I'm eager to discuss and collaborate, especially for industry internships in Large Multimodal Models!
