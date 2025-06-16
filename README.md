@@ -8,17 +8,21 @@ If you have found some new and interesting papers, I would appreciate it if you 
 - [Papers](#Papers)
   - [Sparse Autoencoder](#Sparse-Autoencoder)
   - [Linear Probing](#Linear-Probing)
-  - [Logit Lens](#Logit-Lens)
+  - [(Beyond) Logit Lens](#Logit-Lens)
   - [Causal Tracing](#Causal-Tracing)
   - [Neuron Analysis](#Neuron-Analysis)
   - [Steering Vector](#Steering-Vector)
   - [Representation](#Representation)
+  - [Attention](#Attention)
   - [Tool](#Tool)
 
 ## Surveys:
 ([Back to Table of Contents](#table-of-contents))
 + [A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models](https://arxiv.org/abs/2502.17516) (Feb. 22, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17516)
+
++ [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496) (Jan. 27, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.16496)
 
 + [A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future](https://arxiv.org/abs/2412.14056) (Dec. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14056)
@@ -36,14 +40,31 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 + [Laying the Foundations for Vision and Multimodal Mechanistic Interpretability & Open Problems](https://www.lesswrong.com/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic) (May. 14, 2024)
 
++ [Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2) (Apr. 30, 2024)
+  
 ## Papers:
 ([Back to Table of Contents](#table-of-contents))
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sparse Autoencoder
-+ **Understanding Feature Mappings in VLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
++ **Understanding Feature Mappings in MLLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
+
++ **SAE Learn Monosemantic Features in VLMs** [Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models](https://arxiv.org/abs/2504.02821) (Jun. 6, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.02821)
+  [![Star](https://img.shields.io/github/stars/ExplainableML/sae-for-vlm.svg?style=social&label=Star)](https://github.com/ExplainableML/sae-for-vlm)
+
++ **SAE Attributing CLIP's Latent Components** [From What to How: Attributing CLIP's Latent Components Reveals Unexpected Semantic Reliance](https://arxiv.org/abs/2505.20229) (May. 26, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20229)
+  [![Star](https://img.shields.io/github/stars/maxdreyer/attributing-clip.svg?style=social&label=Star)](https://github.com/maxdreyer/attributing-clip)
+  
++ **SAE Analyzing Hierarchical Structure in VMs** [Analyzing Hierarchical Structure in Vision Models with Sparse Autoencoders](https://arxiv.org/abs/2505.15970) (May. 21, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.15970)
+
++ **SAE Reveal Selective Remapping of Visual Concepts** [Sparse autoencoders reveal selective remapping of visual concepts during adaptation](https://arxiv.org/abs/2412.05276) (Mar. 21, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05276)
+  [![Star](https://img.shields.io/github/stars/dynamical-inference/patchsae.svg?style=social&label=Star)](https://github.com/dynamical-inference/patchsae)
 
 + **SAE-V** [SAE-V: Interpreting Multimodal Models for Enhanced Alignment](https://arxiv.org/abs/2502.17514) (Feb. 22, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17514)
@@ -83,10 +104,18 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Logit Lens
+### (Beyond) Logit Lens
++ **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
+  [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
+
 + **Beyond Logit Lens** [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187) (Feb. 19, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19187)
-  
+
++ **Diffusion Lens** [Diffusion Lens: Interpreting Text Encoders in Text-to-Image Pipelines](https://arxiv.org/abs/2403.05846) (Oct. 21, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.05846)
+  [![Star](https://img.shields.io/github/stars/tokeron/DiffusionLens.svg?style=social&label=Star)](https://github.com/tokeron/DiffusionLens)
+
 + **Attention Lens** [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://www.arxiv.org/abs/2411.16724) (Nov. 23, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
 
@@ -105,7 +134,11 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Steering Vector
+### Steering 
++ **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
+  [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
+
 + **LMM Concept Explainability** [A Concept-Based Explainability Framework for Large Multimodal Models](https://arxiv.org/abs/2406.08074) (Nov. 30, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08074)
   [![Star](https://img.shields.io/github/stars/mshukor/xl-vlms.svg?style=social&label=Star)](https://github.com/mshukor/xl-vlms)
@@ -123,6 +156,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Understanding Feature Mappings in VLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
+
++ **Embedding Shift Dissection on CLIP** [Embedding Shift Dissection on CLIP: Effects of Augmentations on VLM's Representation Learning](https://arxiv.org/abs/2503.23495) (Apr. 10, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.23495)
+  [![Star](https://img.shields.io/github/stars/ashimdahal/clip-shift-analysis.svg?style=social&label=Star)](https://github.com/ashimdahal/clip-shift-analysis)
 
 + **Fine-tuning Representation Shift** [Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering](https://arxiv.org/abs/2501.03012) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03012)
@@ -180,6 +217,14 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Multimodal Neurons in Pretrained Text-Only Transformers** [Multimodal Neurons in Pretrained Text-Only Transformers](https://arxiv.org/abs/2308.01544) (Aug. 18, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.01544)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Attention
++ **Spatial Reasoning 4 VLMs** [Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773) (Mar. 4, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01773)
+  [![Star](https://img.shields.io/github/stars/shiqichen17/AdaptVis.svg?style=social&label=Star)](https://github.com/shiqichen17/AdaptVis)
+
++ **Attention Lens** [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://www.arxiv.org/abs/2411.16724) (Nov. 23, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tool
 + **Prisma** [Prisma : An Open Source Toolkit for Mechanistic Interpretability in Vision and Video](https://arxiv.org/abs/2504.19475) (Apr. 28, 2025)
