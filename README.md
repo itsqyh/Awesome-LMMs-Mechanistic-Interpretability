@@ -45,6 +45,13 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
 
++ **SAE-V** [SAE-V: Interpreting Multimodal Models for Enhanced Alignment](https://arxiv.org/abs/2502.17514) (Feb. 22, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17514)
+
++ **SAE for Scientifically Rigorous Interpretation** [Sparse Autoencoders for Scientifically Rigorous Interpretation of Vision Models](https://arxiv.org/abs/2502.06755) (Feb. 10, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06755)
+  [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/saev.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/saev)
+
 + **Universal SAE** [Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment](https://arxiv.org/pdf/2502.03714) (Feb. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2502.03714)
 
