@@ -70,7 +70,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03162)
   [![Star](https://img.shields.io/github/stars/phiyodr/plxmert.svg?style=social&label=Star)](https://huggingface.co/datasets/facebook/winoground)
 
-+ **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective]([https://arxiv.org/abs/2402.10376](https://ojs.aaai.org/index.php/AAAI/article/view/21375)) (Jun. 28, 2022)
++ **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Logit Lens
