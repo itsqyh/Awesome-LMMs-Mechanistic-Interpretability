@@ -7,7 +7,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 - [Blog](#Blog)
 - [Papers](#Papers)
   - [Sparse Autoencoder](#Sparse-Autoencoder)
-  - [Linear Probing](#Linear-Probing)
+  - [Probing](#Probing)
   - [(Beyond) Logit Lens](#Beyond-or-Logit-Lens)
   - [Causal Tracing](#Causal-Tracing)
   - [Neuron Analysis](#Neuron-Analysis)
@@ -93,7 +93,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-sae)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Linear Probing
+### Probing
 ([Back to Table of Contents](#table-of-contents))
 
 + **Probing MLLMs** [Probing Multimodal Large Language Models for Global and Local Semantic Representations](https://arxiv.org/abs/2402.17304) (Jan. 6, 2025)
