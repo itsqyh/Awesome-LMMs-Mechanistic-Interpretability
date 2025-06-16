@@ -35,7 +35,7 @@
 
 
 ## 📚 Surveys:
-([Back to Table of Contents](#Table-of-contents))
+([Back to Table of Contents](#🎓 Table-of-contents))
 + [A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models](https://arxiv.org/abs/2502.17516) (Feb. 22, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.17516)
 
