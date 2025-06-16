@@ -1,4 +1,4 @@
-# Awesome LMMs Mechanistic Interpretability
+# 🌟 Awesome LMMs Mechanistic Interpretability
 <div align="center">
   <img src="logo.png" alt="Logo" width="300">
   <h1 align="center">Peering into the Black Box of LMMs.</h1>
@@ -9,8 +9,8 @@
 
 </div>
 
-All the papers listed in this project come from my usual reading.
-If you have found some new and interesting papers, I would appreciate it if you let me know!!!
+📬 **Have a new paper or collaboration idea?** Reach out to me at: **qyhhere@gmail.com**.  
+🤝 **Seeking Opportunities:** I'm eager to discuss and collaborate, especially for industry internships in Large Multimodal Models!
 
 ## Table of Contents
 - [Surveys](#Surveys)
