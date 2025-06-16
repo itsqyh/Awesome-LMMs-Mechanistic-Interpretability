@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-A curated collection of resources focused on the Mechanistic Interpretability (MI) of Large Multimodal Models (LMMs).
+## A curated collection of resources focused on the Mechanistic Interpretability (MI) of Large Multimodal Models (LMMs).
 </div>
 
 📬 **Have a new paper or collaboration idea?** Reach out to me at: **qyhhere@gmail.com**.  
