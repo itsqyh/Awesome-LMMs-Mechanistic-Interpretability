@@ -61,6 +61,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Probing Hallucination in VIT** [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/abs/2210.07688) (Feb. 10, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.07688)
 
++ **Probing Representations of Numbers in VLMs** [Probing Representations of Numbers in Vision and Language Models](https://openreview.net/forum?id=01hQQ16Lc9M) (May. 06, 2023)
+
 + **Probing VIT** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
 
@@ -69,6 +71,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![Star](https://img.shields.io/github/stars/phiyodr/plxmert.svg?style=social&label=Star)](https://huggingface.co/datasets/facebook/winoground)
 
 + **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective]([https://arxiv.org/abs/2402.10376](https://ojs.aaai.org/index.php/AAAI/article/view/21375)) (Jun. 28, 2022)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Logit Lens
 + **Beyond Logit Lens** [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187) (Feb. 19, 2025)
