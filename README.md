@@ -63,11 +63,12 @@
 + [Laying the Foundations for Vision and Multimodal Mechanistic Interpretability & Open Problems](https://www.lesswrong.com/posts/kobJymvvcvhbjWFKe/laying-the-foundations-for-vision-and-multimodal-mechanistic) (May. 14, 2024)
 
 + [Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2) (Apr. 30, 2024)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## Papers:
 ([Back to Table of Contents](#table-of-contents))
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📚 Sparse Autoencoder
 ([Back to Table of Contents](#table-of-contents))
 
