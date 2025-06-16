@@ -54,12 +54,21 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Probing MLLMs** [Probing Multimodal Large Language Models for Global and Local Semantic Representations](https://arxiv.org/abs/2402.17304) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17304)
 
++ **Probing the Role of Positional Information in VLMs** [Probing the Role of Positional Information in Vision-Language Models](https://arxiv.org/abs/2305.10046) (May. 17, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10046)
+  [![Star](https://img.shields.io/github/stars/phiyodr/plxmert.svg?style=social&label=Star)](https://github.com/phiyodr/plxmert)
+  
 + **Probing Hallucination in VIT** [Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training](https://arxiv.org/abs/2210.07688) (Feb. 10, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.07688)
 
 + **Probing VIT** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/21375)
 
++ **Probing VLMs for Visio-Linguistic Compositionality** [Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality](https://arxiv.org/abs/2204.03162) (Apr. 22, 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03162)
+  [![Star](https://img.shields.io/github/stars/phiyodr/plxmert.svg?style=social&label=Star)](https://huggingface.co/datasets/facebook/winoground)
+
++ **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective]([https://arxiv.org/abs/2402.10376](https://ojs.aaai.org/index.php/AAAI/article/view/21375)) (Jun. 28, 2022)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Logit Lens
 + **Beyond Logit Lens** [Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs](https://arxiv.org/abs/2411.19187) (Feb. 19, 2025)
@@ -131,6 +140,14 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Neuron Analysis
++ **ViTs Don't Need Trained Registers** [Vision Transformers Don't Need Trained Registers](https://arxiv.org/abs/2506.08010) (Jun. 10, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08010)
+  [![Star](https://img.shields.io/github/stars/nickjiang2378/test-time-registers/tree/main.svg?style=social&label=Star)](https://github.com/nickjiang2378/test-time-registers/tree/main)
+
++ **Interpreting the Second-Order Effects of Neurons in CLIP** [Interpreting the Second-Order Effects of Neurons in CLIP](https://arxiv.org/abs/2406.04341) (Feb. 12, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04341)
+  [![Star](https://img.shields.io/github/stars/yossigandelsman/second_order_lens.svg?style=social&label=Star)](https://github.com/yossigandelsman/second_order_lens)
+
 + **Multi-Modal Neurons** [Finding and Editing Multi-Modal Neurons in Pre-Trained Transformers](https://arxiv.org/abs/2311.07470) (Jun. 11, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.07470)
   [![Star](https://img.shields.io/github/stars/opanhw/MM_Neurons.svg?style=social&label=Star)](https://github.com/opanhw/MM_Neurons)
@@ -146,6 +163,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **What Do VLMs NOTICE?** [What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Gaussian-Noise-free Text-Image Corruption and Evaluation](https://arxiv.org/abs/2406.16320) (Oct. 18, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16320)
   [![Star](https://img.shields.io/github/stars/wrudman/NOTICE.svg?style=social&label=Star)](https://anonymous.4open.science/r/NOTICE-ARR-Submission/README.md)
+
++ **Multimodal Neurons in Pretrained Text-Only Transformers** [Multimodal Neurons in Pretrained Text-Only Transformers](https://arxiv.org/abs/2308.01544) (Aug. 18, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.01544)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tool
