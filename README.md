@@ -8,7 +8,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 - [Papers](#Papers)
   - [Sparse Autoencoder](#Sparse-Autoencoder)
   - [Linear Probing](#Linear-Probing)
-  - [(Beyond) Logit Lens](#Logit-Lens)
+  - [(Beyond) Logit Lens](#(Beyond)-Logit-Lens)
   - [Causal Tracing](#Causal-Tracing)
   - [Neuron Analysis](#Neuron-Analysis)
   - [Steering Vector](#Steering-Vector)
@@ -61,6 +61,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
   
 + **SAE Analyzing Hierarchical Structure in VMs** [Analyzing Hierarchical Structure in Vision Models with Sparse Autoencoders](https://arxiv.org/abs/2505.15970) (May. 21, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.15970)
+
++ **DiffLens: Dissecting and Mitigating Diffusion Bias** [Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability](https://arxiv.org/abs/2503.20483) (Mar. 26, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20483)
+  [![Star](https://img.shields.io/github/stars/foundation-model-research/DiffLens.svg?style=social&label=Star)](https://github.com/foundation-model-research/DiffLens)
 
 + **SAE Reveal Selective Remapping of Visual Concepts** [Sparse autoencoders reveal selective remapping of visual concepts during adaptation](https://arxiv.org/abs/2412.05276) (Mar. 21, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.05276)
@@ -138,6 +142,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
   [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
+
++ **DiffLens: Dissecting and Mitigating Diffusion Bias** [Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability](https://arxiv.org/abs/2503.20483) (Mar. 26, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20483)
+  [![Star](https://img.shields.io/github/stars/foundation-model-research/DiffLens.svg?style=social&label=Star)](https://github.com/foundation-model-research/DiffLens)
 
 + **LMM Concept Explainability** [A Concept-Based Explainability Framework for Large Multimodal Models](https://arxiv.org/abs/2406.08074) (Nov. 30, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.08074)
