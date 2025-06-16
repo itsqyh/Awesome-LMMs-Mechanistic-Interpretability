@@ -8,7 +8,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 - [Papers](#Papers)
   - [Sparse Autoencoder](#Sparse-Autoencoder)
   - [Linear Probing](#Linear-Probing)
-  - [(Beyond) Logit Lens](#Beyond/-Logit-Lens)
+  - [(Beyond) Logit Lens](#Beyond-or-Logit-Lens)
   - [Causal Tracing](#Causal-Tracing)
   - [Neuron Analysis](#Neuron-Analysis)
   - [Steering Vector](#Steering-Vector)
@@ -108,7 +108,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective](https://ojs.aaai.org/index.php/AAAI/article/view/21375) (Jun. 28, 2022)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Beyond/Logit Lens
+### Beyond or Logit Lens
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
   [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
