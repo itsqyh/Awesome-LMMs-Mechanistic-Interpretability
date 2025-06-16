@@ -28,6 +28,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
   
 ## Blog:
 ([Back to Table of Contents](#table-of-contents))
++ [Mechanistic Interpretability Meets Vision Language Models: Insights and Limitations](https://d2jud02ci9yv69.cloudfront.net/2025-04-28-vlm-understanding-29/blog/vlm-understanding/) (Apr. 28, 2025)
+
 + [Are SAE features from the Base Model still meaningful to LLaVA?](https://www.lesswrong.com/posts/8JTi7N3nQmjoRRuMD/are-sae-features-from-the-base-model-still-meaningful-to-1) (Dec. 6, 2024)
 
 + [Bridging the VLM and mech interp communities for multimodal interpretability](https://www.lesswrong.com/posts/aa5fzGr8JA3pqvhYC/bridging-the-vlm-and-mech-interp-communities-for-multimodal) (Oct. 28, 2024)
@@ -39,6 +41,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sparse Autoencoder
++ **Understanding Feature Mappings in VLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
+  [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
+
 + **SAE 4 LMM** [Large Multi-modal Models Can Interpret Features in Large Multi-modal Models](https://arxiv.org/abs/2411.14982) (Nov. 22, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.14982)
   [![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-sae.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-sae)
@@ -92,6 +98,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Representation
++ **Understanding Feature Mappings in VLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
+  [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
+
 + **Fine-tuning Representation Shift** [Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering](https://arxiv.org/abs/2501.03012) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.03012)
   [![Star](https://img.shields.io/github/stars/mshukor/xl-vlms.svg?style=social&label=Star)](https://github.com/mshukor/xl-vlms)
@@ -104,9 +114,20 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16700)
   [![Star](https://img.shields.io/github/stars/mshukor/ima-lmms.svg?style=social&label=Star)](https://github.com/mshukor/ima-lmms)
 
++ **Interp and Editing VLR to Mitigate Hallucinations** [Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations](https://arxiv.org/abs/2410.02762) (Oct. 5, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.02762)
+  [![Star](https://img.shields.io/github/stars/nickjiang2378/vl-interp.svg?style=social&label=Star)](https://github.com/nickjiang2378/vl-interp)
+
 + **Text-Based Decomposition** [Interpreting CLIP's Image Representation via Text-Based Decomposition](https://arxiv.org/abs/2310.05916) (Mar. 29, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05916)
   [![Star](https://img.shields.io/github/stars/yossigandelsman/clip_text_span.svg?style=social&label=Star)](https://github.com/yossigandelsman/clip_text_span)
+
++ **Interpreting CLIP with Sparse Linear Concept Embeddings** [Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)](https://arxiv.org/abs/2402.10376) (Feb. 16, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10376)
+  [![Star](https://img.shields.io/github/stars/AI4LIFE-GROUP/SpLiCE.svg?style=social&label=Star)](https://github.com/AI4LIFE-GROUP/SpLiCE)
+
++ **A Probing Perspective of VITs Learning Multimodal Representations** [Are Vision-Language Transformers Learning Multimodal Representations? A Probing Perspective]([https://arxiv.org/abs/2402.10376](https://ojs.aaai.org/index.php/AAAI/article/view/21375)) (Jun. 28, 2022)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Neuron Analysis
@@ -128,6 +149,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tool
++ **Prisma** [Prisma : An Open Source Toolkit for Mechanistic Interpretability in Vision and Video](https://arxiv.org/abs/2504.19475) (Apr. 28, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19475)
+  [![Star](https://img.shields.io/github/stars/Prisma-Multimodal/ViT-Prisma.svg?style=social&label=Star)](https://github.com/Prisma-Multimodal/ViT-Prisma)
+
 + **LLaVA-Intrepret** [Towards Interpreting Visual Information Processing in Vision-Language Models](https://arxiv.org/abs/2410.07149) (Oct. 09, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07149)
   [![Star](https://img.shields.io/github/stars/clemneo/llava-interp.svg?style=social&label=Star)](https://github.com/clemneo/llava-interp)
@@ -136,6 +161,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03118)
   [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
 
-
++ **ViT Prisma** [ViT Prisma: A Mechanistic Interpretability Library for Vision Transformers] (2023)
+  [![Star](https://img.shields.io/github/stars/soniajoseph/vit-prisma.svg?style=social&label=Star)](https://github.com/soniajoseph/vit-prisma)
 
 
