@@ -94,6 +94,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Linear Probing
+([Back to Table of Contents](#table-of-contents))
+
 + **Probing MLLMs** [Probing Multimodal Large Language Models for Global and Local Semantic Representations](https://arxiv.org/abs/2402.17304) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17304)
 
@@ -117,6 +119,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Beyond or Logit Lens
+([Back to Table of Contents](#table-of-contents))
+
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
   [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
@@ -133,6 +137,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Causal Tracing
+([Back to Table of Contents](#table-of-contents))
+
 + **LLaVA in VQA** [Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering](https://arxiv.org/abs/2411.10950) (Nov. 17, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10950)
   [![Star](https://img.shields.io/github/stars/zepingyu0512/llava-mechanism.svg?style=social&label=Star)](https://github.com/zepingyu0512/llava-mechanism)
@@ -147,6 +153,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Steering 
+([Back to Table of Contents](#table-of-contents))
+
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
   [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
@@ -169,6 +177,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Representation
+([Back to Table of Contents](#table-of-contents))
+
 + **Understanding Feature Mappings in VLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
@@ -206,6 +216,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Neuron Analysis
+([Back to Table of Contents](#table-of-contents))
+
 + **ViTs Don't Need Trained Registers** [Vision Transformers Don't Need Trained Registers](https://arxiv.org/abs/2506.08010) (Jun. 10, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08010)
   [![Star](https://img.shields.io/github/stars/nickjiang2378/test-time-registers.svg?style=social&label=Star)](https://github.com/nickjiang2378/test-time-registers/tree/main)
@@ -235,6 +247,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Attention
+([Back to Table of Contents](#table-of-contents))
+
 + **Spatial Reasoning 4 VLMs** [Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773) (Mar. 4, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01773)
   [![Star](https://img.shields.io/github/stars/shiqichen17/AdaptVis.svg?style=social&label=Star)](https://github.com/shiqichen17/AdaptVis)
@@ -243,6 +257,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Tool
+([Back to Table of Contents](#table-of-contents))
+
 + **Prisma** [Prisma : An Open Source Toolkit for Mechanistic Interpretability in Vision and Video](https://arxiv.org/abs/2504.19475) (Apr. 28, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19475)
   [![Star](https://img.shields.io/github/stars/Prisma-Multimodal/ViT-Prisma.svg?style=social&label=Star)](https://github.com/Prisma-Multimodal/ViT-Prisma)
