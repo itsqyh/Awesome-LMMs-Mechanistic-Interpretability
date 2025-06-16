@@ -67,8 +67,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## Papers:
-([Back to Table of Contents](#table-of-contents))
-
 ### 📚 Sparse Autoencoder
 ([Back to Table of Contents](#table-of-contents))
 
