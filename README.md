@@ -1,4 +1,13 @@
 # Awesome LMMs Mechanistic Interpretability
+<div align="center">
+  <img src="logo.png" alt="Logo" width="300">
+  <h1 align="center">Peering into the Black Box of LMMs.</h1>
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/github/last-commit/itsqyh/Awesome-LMMs-Mechanistic-Interpretability?color=green) 
+
+</div>
+
 All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
 
