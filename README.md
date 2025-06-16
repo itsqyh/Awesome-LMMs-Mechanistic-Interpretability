@@ -64,7 +64,6 @@
 
 + [Towards Multimodal Interpretability: Learning Sparse Interpretable Features in Vision Transformers](https://www.lesswrong.com/posts/bCtbuWraqYTDtuARg/towards-multimodal-interpretability-learning-sparse-2) (Apr. 30, 2024)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ## Papers:
 ### 📚 Sparse Autoencoder
