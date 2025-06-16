@@ -161,7 +161,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.03118)
   [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
 
-+ **ViT Prisma** [ViT Prisma: A Mechanistic Interpretability Library for Vision Transformers] (2023)
++ **ViT Prisma** [ViT Prisma: A Mechanistic Interpretability Library for Vision Transformers](https://github.com/soniajoseph/vit-prisma) (2023)
   [![Star](https://img.shields.io/github/stars/soniajoseph/vit-prisma.svg?style=social&label=Star)](https://github.com/soniajoseph/vit-prisma)
 
 
