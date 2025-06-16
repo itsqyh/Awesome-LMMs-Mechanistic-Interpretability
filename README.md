@@ -11,7 +11,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
   - [(Beyond) Logit Lens](#Beyond-or-Logit-Lens)
   - [Causal Tracing](#Causal-Tracing)
   - [Neuron Analysis](#Neuron-Analysis)
-  - [Steering Vector](#Steering)
+  - [Steering](#Steering)
   - [Representation](#Representation)
   - [Attention](#Attention)
   - [Tool](#Tool)
