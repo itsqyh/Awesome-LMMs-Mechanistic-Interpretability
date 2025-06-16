@@ -148,7 +148,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 ### Neuron Analysis
 + **ViTs Don't Need Trained Registers** [Vision Transformers Don't Need Trained Registers](https://arxiv.org/abs/2506.08010) (Jun. 10, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08010)
-  [![Star](https://img.shields.io/github/stars/nickjiang2378/test-time-registers/tree/main.svg?style=social&label=Star)](https://github.com/nickjiang2378/test-time-registers/tree/main)
+  [![Star](https://img.shields.io/github/stars/nickjiang2378/test-time-registers.svg?style=social&label=Star)](https://github.com/nickjiang2378/test-time-registers/tree/main)
 
 + **Interpreting the Second-Order Effects of Neurons in CLIP** [Interpreting the Second-Order Effects of Neurons in CLIP](https://arxiv.org/abs/2406.04341) (Feb. 12, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04341)
