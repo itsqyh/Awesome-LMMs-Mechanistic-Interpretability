@@ -173,7 +173,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📜 Steering 
 ([Back to Table of Contents](#table-of-contents))
-
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
   [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
@@ -189,6 +188,10 @@
 + **Concept Sliders** [Concept Sliders: LoRA Adaptors for Precise Control in Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-73661-2_10) (Nov. 10, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://link.springer.com/chapter/10.1007/978-3-031-73661-2_10)
   [![Star](https://img.shields.io/github/stars/CompVis/attribute-conl.svg?style=social&label=Star)](https://sliders.baulab.info/)
+
++ **Latent Space Steering Reducing Hallucinations in VLMs** [Reducing Hallucinations in Vision-Language Models via Latent Space Steering](https://arxiv.org/abs/2410.15778) (Oct. 22, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.15778)
+  [![Star](https://img.shields.io/github/stars/shengliu66/VTI.svg?style=social&label=Star)](https://github.com/shengliu66/VTI)
   
 + **Attribute Control** [Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions](https://arxiv.org/abs/2403.17064) (Mar. 24, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.17064)
