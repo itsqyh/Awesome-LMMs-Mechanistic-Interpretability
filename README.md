@@ -21,7 +21,7 @@
 
 ## 🔔 News
 
-- [2025-06] We created this repository to maintain a paper list on LMMs-Mechanistic-Interpretability. Contributions are welcome!
+- [2025-06] We created this repository to maintain a paper list on LMMs-Mechanistic-Interpretability. Contributions are welcome!!!
 
 
 ## Table of Contents
