@@ -274,7 +274,8 @@
 
 + **Attention Lens** [Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens](https://www.arxiv.org/abs/2411.16724) (Nov. 23, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2411.16724)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## 📚 Tool
 ([Back to Table of Contents](#table-of-contents))
 
