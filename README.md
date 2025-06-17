@@ -31,7 +31,7 @@
   - [Steering](#Steering)
   - [Representation](#Representation)
   - [Attention](#Attention)
-  - [Tool](#Tool)
+- [Tool](#Tool)
 
 
 ## 📚 Surveys:
