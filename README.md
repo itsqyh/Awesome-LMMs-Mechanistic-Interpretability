@@ -16,6 +16,7 @@
 
 
 📬 **Have a new paper or collaboration idea?** Reach out to me at: **qyhhere@gmail.com** or Pull Request~ 
+
 🤝 **Seeking Opportunities:** I'm eager to discuss and collaborate, especially for industry internships in Large Multimodal Models!
 
 
