@@ -5,7 +5,7 @@
   
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![](https://img.shields.io/github/last-commit/itsqyh/Awesome-LMMs-Mechanistic-Interpretability?color=green) 
+![](https://img.shields.io/github/last-commit/itsqyh/Awesome-LMMs-Mechanistic-Interpretability?color=green)  
 
 </div>
 
