@@ -309,4 +309,15 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
 
+## Contribution
+
+The main maintainer is Yihao Quan ([@Yihao Quan](https://github.com/itsqyh)). 
+
+<p align="center">
+  <a href="https://github.com/itsqyh">
+    <img src="yihao.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" alt="Yihao Quan">
+  </a>
+</p>
+
+Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-LMMs-Mechanistic-Interpretability can become a more mature toolbox in the machine learning community.
 
