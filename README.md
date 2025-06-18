@@ -319,5 +319,4 @@ The main maintainer is Yihao Quan ([@Yihao Quan](https://github.com/itsqyh)).
   </a>
 </p>
 
-Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-LMMs-Mechanistic-Interpretability can become a more mature toolbox in the machine learning community.
-
+Future contributors are welcome, and feel free to send pull requests in hopes that Awesome-LMMs-Mechanistic-Interpretability can become a more mature repo in the Large Multimodal Models' community. 
