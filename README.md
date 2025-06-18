@@ -315,7 +315,7 @@ The main maintainer is Yihao Quan ([@Yihao Quan](https://github.com/itsqyh)).
 
 <p align="center">
   <a href="https://github.com/itsqyh">
-    <img src="yihao.jpg" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" alt="Yihao Quan">
+    <img src="yihao.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" alt="Yihao Quan">
   </a>
 </p>
 
