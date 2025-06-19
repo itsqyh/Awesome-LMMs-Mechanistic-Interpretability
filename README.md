@@ -309,7 +309,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.14179)
   [![Star](https://img.shields.io/github/stars/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability.svg?style=social&label=Star)](https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability)
 
-## Contribution
+## 📚 Contribution
 
 The main maintainer is Yihao Quan ([@Yihao Quan](https://github.com/itsqyh)). 
 
