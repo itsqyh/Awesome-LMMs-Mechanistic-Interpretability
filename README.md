@@ -79,6 +79,38 @@
 
 ## 📚 Papers:
 
+### 📜 Input-level Attribution
+([Back to Table of Contents](#table-of-contents))
+
+
++ **Token Activation Map for VLLM** [Token Activation Map to Visually Explain Multimodal LLMs](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.23270)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+
+
++ **Attributing Decision Region for Object-level Foundation Model** [Interpreting Object-level Foundation Models via Visual Precision Search](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
+  [![Star](https://img.shields.io/github/stars/RuoyuChen10/VPS.svg?style=social&label=Star)](https://github.com/RuoyuChen10/VPS)
+
++ **Understanding the decision basis of MLLMs based on integrated gradient** [Where do Large Vision-Language Models Look at when Answering Questions?](https://arxiv.org/abs/2503.13891) (Mar. 18, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
+  [![Star](https://img.shields.io/github/stars/bytedance/LVLM_Interpretation.svg?style=social&label=Star)](https://github.com/bytedance/LVLM_Interpretation)
+
++ **Understanding the decision basis of MLLMs based on gradient and attention methods** [From redundancy to relevance: Enhancing explainability in multimodal large language models](https://arxiv.org/abs/2406.06579) (Oct. 17, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.06579)
+  [![Star](https://img.shields.io/github/stars/zhangbaijin/From-Redundancy-to-Relevance.svg?style=social&label=Star)](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)
+
++ **Tool to Visualize LVLM Decision** [LVLM-Interpret: an interpretability tool for large vision-language models](https://arxiv.org/abs/2404.03118) (Jun. 24, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13339) [![Star](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret.svg?style=social&label=Star)](https://github.com/IntelLabs/lvlm-interpret)
+  
+
++ **Attributing LLM's Chain-of-Thought** [Analyzing chain-of-thought prompting in large language models via gradient-based feature attributions](https://arxiv.org/abs/2307.13339) (Jul. 25, 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13339)
+
+
+  
+
+
 ### 📜 Sparse Autoencoder
 ([Back to Table of Contents](#table-of-contents))
 
