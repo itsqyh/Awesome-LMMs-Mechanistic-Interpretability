@@ -28,6 +28,7 @@
 - [Surveys](#-surveys)
 - [Blog](#-blog)
 - [Papers](#-papers)
+  - [Input-level Attribution](#-input-level-attribution)
   - [Sparse Autoencoder](#-sparse-autoencoder)
   - [Probing](#-probing)
   - [(Beyond) Logit Lens](#-beyond-or-logit-lens)
