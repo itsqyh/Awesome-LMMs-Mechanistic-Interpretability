@@ -88,7 +88,6 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.23270)
   [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
 
-
 + **Attributing Decision Region for Object-level Foundation Model** [Interpreting Object-level Foundation Models via Visual Precision Search](https://arxiv.org/abs/2411.16198) (Apr. 4, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/RuoyuChen10/VPS.svg?style=social&label=Star)](https://github.com/RuoyuChen10/VPS)
@@ -233,8 +232,11 @@
 ### 📜 Steering 
 ([Back to Table of Contents](#table-of-contents))
 
-+ **Mechanistic Interpretability 4 VLA** [Mechanistic Interpretability for Steering Vision-Language-Action Models]() (Aug. 30, 2025)
++ **Mechanistic Interpretability 4 VLA** [Mechanistic Interpretability for Steering Vision-Language-Action Models](https://arxiv.org/pdf/2509.00328) (Aug. 30, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.00328)
+
++ **Textual Steering Vectors 4 MLLMs** [Textual Steering Vectors Can Improve Visual Understanding in Multimodal Large Language Models](https://arxiv.org/abs/2505.14071) (May. 20, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14071)
 
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
