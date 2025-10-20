@@ -122,6 +122,8 @@
 + **Causal Interpretation of SAE Features in Vision** [Causal Interpretation of Sparse Autoencoder Features in Vision](https://arxiv.org/abs/2509.00749) (Aug. 31, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.00749)
 
++ **L0’s Impact on SAE Features** [Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://arxiv.org/abs/2508.16560) (Sep. 26, 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16560)<img width="432" height="94" alt="image" src="https://github.com/user-attachments/assets/9fea60e1-af8c-45bc-951f-d6460272002e" />
+
 + **Understanding Feature Mappings in MLLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
@@ -301,6 +303,9 @@
 ### 📜 Neuron Analysis
 ([Back to Table of Contents](#table-of-contents))
 
++ **Bridging Modality-Specific Circuits** [Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs](https://arxiv.org/abs/2506.09047) (Jun. 10, 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.09047)
+
+
 + **Do VLMs Have Bad Eyes?** [Do VLMs Have Bad Eyes? Diagnosing Compositional Failures via Mechanistic Interpretability](https://arxiv.org/abs/2508.16652) (Aug. 26, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16652)
   [![Star](https://img.shields.io/github/stars/Mystic-Slice/Do-VLMs-Have-Bad-Eyes.svg?style=social&label=Star)](https://github.com/Mystic-Slice/Do-VLMs-Have-Bad-Eyes)
@@ -308,6 +313,8 @@
 + **ViTs Don't Need Trained Registers** [Vision Transformers Don't Need Trained Registers](https://arxiv.org/abs/2506.08010) (Jun. 10, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08010)
   [![Star](https://img.shields.io/github/stars/nickjiang2378/test-time-registers.svg?style=social&label=Star)](https://github.com/nickjiang2378/test-time-registers/tree/main)
+
++ **Interpreting Neurons in VLMs** [Deciphering Functions of Neurons in Vision-Language Models](https://arxiv.org/abs/2502.18485) (Feb. 10, 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.18485)
 
 + **Interpreting the Second-Order Effects of Neurons in CLIP** [Interpreting the Second-Order Effects of Neurons in CLIP](https://arxiv.org/abs/2406.04341) (Feb. 12, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04341)
