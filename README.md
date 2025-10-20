@@ -93,6 +93,10 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/RuoyuChen10/VPS.svg?style=social&label=Star)](https://github.com/RuoyuChen10/VPS)
 
++ **PixelSHAP** [PixelSHAP: Model-agnostic Visual Attribution](https://arxiv.org/abs/2503.06670) (Mar. 9, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.23270)
+  [![Star](https://img.shields.io/github/stars/xmed-lab/TAM.svg?style=social&label=Star)](https://github.com/xmed-lab/TAM)
+
 + **Understanding the decision basis of MLLMs based on integrated gradient** [Where do Large Vision-Language Models Look at when Answering Questions?](https://arxiv.org/abs/2503.13891) (Mar. 18, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/bytedance/LVLM_Interpretation.svg?style=social&label=Star)](https://github.com/bytedance/LVLM_Interpretation)
@@ -311,6 +315,12 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📜 Attention
 ([Back to Table of Contents](#table-of-contents))
+
++ **V-SEAM: Visual Semantic Editing & Attention Modulating** [V-SEAM: Visual Semantic Editing & Attention Modulating](https://arxiv.org/abs/2509.13264) (Sep. 18, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.13264) [![Star](https://img.shields.io/github/stars/vseam-lab/V-SEAM.svg?style=social&label=Star)](https://github.com/vseam-lab/V-SEAM)
+  
++ **Head Attribution for Image-to-Text Information Flow** [Head Attribution for Image-to-Text Information Flow](https://arxiv.org/abs/2509.16572) (Sep. 22, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.16572) [![Star](https://img.shields.io/github/stars/headattrib/InfoFlow.svg?style=social&label=Star)](https://github.com/headattrib/InfoFlow)
 
 + **Spatial Reasoning 4 VLMs** [Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773) (Mar. 4, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01773)
