@@ -221,6 +221,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📜 Steering 
 ([Back to Table of Contents](#table-of-contents))
+
++ **Mechanistic Interpretability 4 VLA** [Mechanistic Interpretability for Steering Vision-Language-Action Models]() (Aug. 30, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.00328)
+
 + **Diffusion Steering Lens Decoding ViTs** [Decoding Vision Transformers: the Diffusion Steering Lens](https://arxiv.org/abs/2504.13763) (Apr. 23, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.13763)
   [![Star](https://img.shields.io/github/stars/rtakatsky/DSLens.svg?style=social&label=Star)](https://github.com/rtakatsky/DSLens)
