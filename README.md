@@ -122,7 +122,7 @@
 + **Causal Interpretation of SAE Features in Vision** [Causal Interpretation of Sparse Autoencoder Features in Vision](https://arxiv.org/abs/2509.00749) (Aug. 31, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.00749)
 
-+ **L0’s Impact on SAE Features** [Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://arxiv.org/abs/2508.16560) (Sep. 26, 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16560)<img width="432" height="94" alt="image" src="https://github.com/user-attachments/assets/9fea60e1-af8c-45bc-951f-d6460272002e" />
++ **L0’s Impact on SAE Features** [Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders](https://arxiv.org/abs/2508.16560) (Sep. 26, 2025) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16560)
 
 + **Understanding Feature Mappings in MLLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
