@@ -316,11 +316,11 @@
 ### 📜 Attention
 ([Back to Table of Contents](#table-of-contents))
 
-+ **V-SEAM: Visual Semantic Editing & Attention Modulating** [V-SEAM: Visual Semantic Editing & Attention Modulating](https://arxiv.org/abs/2509.13264) (Sep. 18, 2025)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.13264) [![Star](https://img.shields.io/github/stars/vseam-lab/V-SEAM.svg?style=social&label=Star)](https://github.com/vseam-lab/V-SEAM)
++ **V-SEAM: Visual Semantic Editing & Attention Modulating** [V-SEAM: Visual Semantic Editing & Attention Modulating](https://arxiv.org/abs/2509.14837) (Sep. 18, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.14837) [![Star](https://img.shields.io/github/stars/petergit1/V-SEAM.svg?style=social&label=Star)](https://github.com/petergit1/V-SEAM)
   
-+ **Head Attribution for Image-to-Text Information Flow** [Head Attribution for Image-to-Text Information Flow](https://arxiv.org/abs/2509.16572) (Sep. 22, 2025)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.16572) [![Star](https://img.shields.io/github/stars/headattrib/InfoFlow.svg?style=social&label=Star)](https://github.com/headattrib/InfoFlow)
++ **Head Attribution for Image-to-Text Information Flow** [Head Attribution for Image-to-Text Information Flow](https://arxiv.org/abs/2509.17588) (Sep. 22, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.17588) [![Star](https://img.shields.io/github/stars/headattrib/InfoFlow.svg?style=social&label=Star)](https://github.com/headattrib/InfoFlow)
 
 + **Spatial Reasoning 4 VLMs** [Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773) (Mar. 4, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.01773)
@@ -332,6 +332,9 @@
 
 ## 📚 Tool
 ([Back to Table of Contents](#table-of-contents))
+
++ **MAIA: Multimodal Automated Interpretability Agent** [MAIA: Multimodal Automated Interpretability Agent](https://arxiv.org/abs/2404.14394) (Feb. 11, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14394) [![Star](https://img.shields.io/github/stars/multimodal-interpretability/maia.svg?style=social&label=Star)](https://github.com/multimodal-interpretability/maia)
 
 + **Prisma** [Prisma : An Open Source Toolkit for Mechanistic Interpretability in Vision and Video](https://arxiv.org/abs/2504.19475) (Apr. 28, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.19475)
