@@ -20,7 +20,7 @@
 
 
 ## 🔔 News
-
+- [2025-10] Update vol 1！！
 - [2025-06] I created this repository to maintain a paper list on LMMs-Mechanistic-Interpretability. Contributions are welcome!!!
 
 
