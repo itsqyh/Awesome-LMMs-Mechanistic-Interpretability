@@ -119,6 +119,9 @@
 ### 📜 Sparse Autoencoder
 ([Back to Table of Contents](#table-of-contents))
 
++ **Causal Interpretation of SAE Features in Vision** [Causal Interpretation of Sparse Autoencoder Features in Vision](https://arxiv.org/abs/2509.00749) (Aug. 31, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.00749)
+
 + **Understanding Feature Mappings in MLLMs** [How Visual Representations Map to Language Feature Space in Multimodal LLMs](https://arxiv.org/pdf/2506.11976) (Jun. 13, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2506.11976)
   [![Star](https://img.shields.io/github/stars/cvenhoff/vlm-mapping.svg?style=social&label=Star)](https://github.com/cvenhoff/vlm-mapping)
