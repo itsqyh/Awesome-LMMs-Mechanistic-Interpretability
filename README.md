@@ -160,6 +160,9 @@
 ### 📜 Probing
 ([Back to Table of Contents](#table-of-contents))
 
++ **Probing MLLMs: Visual Grounding & Reasoning** [How Multimodal LLMs Solve Image Tasks: A Lens on Visual Grounding, Task Reasoning, and Answer Decoding](https://arxiv.org/abs/2508.20279) (Aug. 27, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.20279)
+
 + **Probing MLLMs** [Probing Multimodal Large Language Models for Global and Local Semantic Representations](https://arxiv.org/abs/2402.17304) (Jan. 6, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17304)
 
