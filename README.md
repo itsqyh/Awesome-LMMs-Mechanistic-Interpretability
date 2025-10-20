@@ -203,6 +203,9 @@
 ### 📜 Causal Tracing
 ([Back to Table of Contents](#table-of-contents))
 
++ **Causal Interpretation of SAE Features in Vision** [Causal Interpretation of Sparse Autoencoder Features in Vision](https://arxiv.org/abs/2509.00749) (Aug. 31, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.00749)
+
 + **Mechanisms for In-Context Vision Language Binding** [Investigating Mechanisms for In-Context Vision Language Binding](https://arxiv.org/abs/2505.22200) (May. 17, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22200)
 
@@ -291,6 +294,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📜 Neuron Analysis
 ([Back to Table of Contents](#table-of-contents))
+
++ **Do VLMs Have Bad Eyes?** [Do VLMs Have Bad Eyes? Diagnosing Compositional Failures via Mechanistic Interpretability](https://arxiv.org/abs/2508.16652) (Aug. 26, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.16652)
+  [![Star](https://img.shields.io/github/stars/Mystic-Slice/Do-VLMs-Have-Bad-Eyes.svg?style=social&label=Star)](https://github.com/Mystic-Slice/Do-VLMs-Have-Bad-Eyes)
 
 + **ViTs Don't Need Trained Registers** [Vision Transformers Don't Need Trained Registers](https://arxiv.org/abs/2506.08010) (Jun. 10, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.08010)
