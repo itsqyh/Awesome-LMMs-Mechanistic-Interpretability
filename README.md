@@ -345,6 +345,9 @@
 ### 📜 Attention
 ([Back to Table of Contents](#table-of-contents))
 
++ **Map the Flow: Information Flow in VideoLLMs** [Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs](https://arxiv.org/abs/2510.13251) (Oct. 15, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13251) [![Star](https://img.shields.io/github/stars/byminji/map-the-flow.svg?style=social&label=Star)](https://github.com/byminji/map-the-flow)
+
 + **V-SEAM: Visual Semantic Editing & Attention Modulating** [V-SEAM: Visual Semantic Editing & Attention Modulating](https://arxiv.org/abs/2509.14837) (Sep. 18, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.14837) [![Star](https://img.shields.io/github/stars/petergit1/V-SEAM.svg?style=social&label=Star)](https://github.com/petergit1/V-SEAM)
   
