@@ -118,6 +118,10 @@
 ### 📜 Sparse Autoencoder
 ([Back to Table of Contents](#table-of-contents))
 
++ **SAE++** [SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193) (Jun. 15, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16193)
+  [![Star](https://img.shields.io/github/stars/Wang-ML-Lab/sae-plus-plus.svg?style=social&label=Star)](https://github.com/Wang-ML-Lab/sae-plus-plus)
+
 + **Causal Interpretation of SAE Features in Vision** [Causal Interpretation of Sparse Autoencoder Features in Vision](https://arxiv.org/abs/2509.00749) (Aug. 31, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.00749)
 
@@ -231,6 +235,10 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 📜 Steering 
 ([Back to Table of Contents](#table-of-contents))
+
++ **SAE++** [SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193) (Jun. 15, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.16193)
+  [![Star](https://img.shields.io/github/stars/Wang-ML-Lab/sae-plus-plus.svg?style=social&label=Star)](https://github.com/Wang-ML-Lab/sae-plus-plus)
 
 + **Mechanistic Interpretability 4 VLA** [Mechanistic Interpretability for Steering Vision-Language-Action Models](https://arxiv.org/pdf/2509.00328) (Aug. 30, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2509.00328)
